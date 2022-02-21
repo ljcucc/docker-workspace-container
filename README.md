@@ -1,4 +1,20 @@
-# docker-images
+# docker-workspace-container
+
+this docker image included:
+
+dev tools: 
+
+* build-essential
+* VNC
+* noVNC (browser based VNC)
+* code-server (web VSCode)
+* nodejs (v14) and npm
+
+Utilities:
+
+* bashtop
+* htop
+* neofetch
 
 build docker image with:
 
